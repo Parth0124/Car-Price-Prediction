@@ -1,0 +1,5 @@
+# Ignore environment directories
+/env/
+/venv/
+*.env
+/carenv/
